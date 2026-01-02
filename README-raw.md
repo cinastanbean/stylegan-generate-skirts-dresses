@@ -31,6 +31,7 @@ All material related to our paper is available via the following links:
 | http://stylegan.xyz/ffhq  | Flickr-Faces-HQ dataset.
 | http://stylegan.xyz/drive | Google Drive folder.
 
+
 Additional material can be found in Google Drive folder:
 
 | Path | Description
